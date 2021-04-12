@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Royal Gala Apple",
+        "wholePrice": 26.99,
+        "imageUrl": "images/greenapple.jpg"
+    },
+    {
+        "id": 2,
+        "name": "BlueBerry",
+        "wholePrice": 16.99,
+        "imageUrl": "images/blueberry.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Peach",
+        "wholePrice": 22.99,
+        "imageUrl": "images/peach.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pecan",
+        "wholePrice": 21.99,
+        "imageUrl": "images/pecan.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pumpkin",
+        "wholePrice": 33.99,
+        "imageUrl": "images/pumpkin.jpg"
+    }
+]
